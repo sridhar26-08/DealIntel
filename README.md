@@ -400,7 +400,7 @@ Built for **HackWithHyderabad 3.0** using:
 
 Questions about DealIntel? 
 - GitHub: [@sridhar26-08](https://github.com/sridhar26-08)
-- Portfolio: [Your website]
+- GitHub: [@binkamvivek](https://github.com/binkamvivek)
 
 ---
 
