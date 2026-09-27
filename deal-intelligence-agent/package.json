@@ -1,0 +1,20 @@
+{
+  "name": "deal-intelligence-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "agent.js",
+  "scripts": {
+    "start": "node agent.js",
+    "test": "node agent.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@vectorize-io/hindsight-client": "^0.10.1",
+    "axios": "^1.20.0",
+    "dotenv": "^18.0.4",
+    "groq-sdk": "^1.6.0"
+  }
+}
