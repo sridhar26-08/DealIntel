@@ -405,6 +405,8 @@ Built for **HackWithHyderabad 3.0** using:
 Questions about DealIntel? 
 - GitHub: [@sridhar26-08](https://github.com/sridhar26-08)
 - GitHub: [@binkamvivek](https://github.com/binkamvivek)
+- LinkedIn: (https://www.linkedin.com/in/sridhar-akul-sai-santosh-yadamreddy-203b1237b/)
+- LinkedIn: (https://www.linkedin.com/in/vivek-binkam-9a1547418/)
 
 ---
 
