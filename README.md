@@ -6,6 +6,8 @@ DealIntel is a memory-powered sales assistant that helps sales teams win more de
 
 Instead of sales reps wasting 20 minutes reading CRM notes before every call, DealIntel delivers full deal context in 90 seconds. Instead of the same objections being handled differently by different reps, DealIntel ensures consistent, winning tactics based on what actually works.
 
+**🌐 Live Demo:** https://deal-intel-two.vercel.app/
+
 ---
 
 ## 🎯 The Problem
@@ -355,6 +357,8 @@ Rep gets full context instantly ✅
 ## 📝 Article & Demo
 
 **Read the full story:** [Coming soon - link to Medium article]
+
+**Try the live app:** https://deal-intel-two.vercel.app/
 
 **Watch the demo:** [Coming soon - link to YouTube]
 
