@@ -174,6 +174,10 @@ const server = http.createServer(async (req, res) => {
   });
 });
 
-server.listen(PORT, () => {
-  console.log(`\n🚀 DealIntel Web Assistant live at: http://localhost:${PORT}`);
-});
+if (!process.env.VERCEL) {
+  server.listen(PORT, () => {
+    console.log(`\n🚀 DealIntel Web Assistant live at: http://localhost:${PORT}`);
+  });
+}
+
+module.exports = server;
