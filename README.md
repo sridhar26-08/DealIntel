@@ -356,11 +356,11 @@ Rep gets full context instantly ✅
 
 ## 📝 Article & Demo
 
-**Read the full story:** [Coming soon - link to Medium article]
+**Read the full story:** [Link](https://lnkd.in/p/dPhXMiyH)
 
-**Try the live app:** https://deal-intel-two.vercel.app/
+**Try the live app:** [Link](https://deal-intel-two.vercel.app/)
 
-**Watch the demo:** [Coming soon - link to YouTube]
+**Watch the demo:** [Link](https://youtu.be/pcEvLLuIQw4)
 
 ---
 
@@ -405,8 +405,8 @@ Built for **HackWithHyderabad 3.0** using:
 Questions about DealIntel? 
 - GitHub: [@sridhar26-08](https://github.com/sridhar26-08)
 - GitHub: [@binkamvivek](https://github.com/binkamvivek)
-- LinkedIn: (https://www.linkedin.com/in/sridhar-akul-sai-santosh-yadamreddy-203b1237b/)
-- LinkedIn: (https://www.linkedin.com/in/vivek-binkam-9a1547418/)
+- LinkedIn: [@Sridhar](https://www.linkedin.com/in/sridhar-akul-sai-santosh-yadamreddy-203b1237b/)
+- LinkedIn: [Vivek](https://www.linkedin.com/in/vivek-binkam-9a1547418/)
 
 ---
 
